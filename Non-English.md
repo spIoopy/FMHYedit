@@ -1692,19 +1692,21 @@
 
 # ► Ukrainian / українська
 
-## ▷ Torrenting
+## ▷ Torrenting / Торренти
 
 * [Mazepa](https://mazepa.to/) - Video / Audio / Books
 * [Toloka](https://toloka.to/) - Torrent Tracker
 
-## ▷ Reading
+## ▷ Reading / Читати
 
 * [JavaLibre](https://javalibre.com.ua/) - Books
 * [manga.in](https://manga.in.ua/) - Manga
 
-## ▷ Streaming
+## ▷ Streaming / Cтріминг
 
-* [Uakino](https://uakino.club/) - Movies / TV / Anime / Use VPN
+* ⭐ **[UASerial](https://uaserial.club) - Movies / TV / Cartoons / Anime / Use VPN / [Telegram](https://t.me/uaserialchannel)
+* [UAkino](https://uakino.club/) - Movies / TV / Anime / Use VPN / [Telegram](https://t.me/clubuakino)
+* [UASerials](https://uaserials.pro) - Movies / TV / Use VPN
 
 ***
 
